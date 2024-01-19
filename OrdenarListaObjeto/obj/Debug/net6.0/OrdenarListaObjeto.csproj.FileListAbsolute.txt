@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.AssemblyInfo.cs
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\bin\Debug\net6.0\OrdenarListaObjeto.exe
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\bin\Debug\net6.0\OrdenarListaObjeto.deps.json
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\bin\Debug\net6.0\OrdenarListaObjeto.runtimeconfig.json
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\bin\Debug\net6.0\OrdenarListaObjeto.dll
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\bin\Debug\net6.0\OrdenarListaObjeto.pdb
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.dll
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\refint\OrdenarListaObjeto.dll
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.pdb
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\OrdenarListaObjeto.genruntimeconfig.cache
+C:\Users\david\Desktop\C#\OrdenarListaObjeto\obj\Debug\net6.0\ref\OrdenarListaObjeto.dll
